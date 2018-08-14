@@ -1,1 +1,2 @@
 second line 1
+added through git console directly
