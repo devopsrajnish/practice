@@ -1,4 +1,3 @@
 second line 1
-
-
 check conflict purpose
+added through git console directly
